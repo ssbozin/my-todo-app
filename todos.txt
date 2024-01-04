@@ -1,0 +1,6 @@
+clean
+run
+sleep
+dooo
+new
+ok
